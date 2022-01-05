@@ -4,7 +4,7 @@ webpack, babel, eslint, prettier에 대해 알아보자
 
 구현한 기능
 
-리액트 기반
+바닥부터 리액트 세팅
 
 - webpack
 
