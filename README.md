@@ -4,11 +4,12 @@ webpack, babel, eslint, prettier에 대해 알아보자
 
 구현한 기능
 
-바닥부터 리액트 세팅
+리액트
 
 - webpack
 
   - 핫 리로딩
+  - proxy 서버
 
 - babel
 
