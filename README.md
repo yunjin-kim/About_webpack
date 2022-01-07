@@ -6,7 +6,7 @@ webpack, babel, eslint, prettier에 대해 알아보자
 
 리액트
 
-- webpack
+- webpack 6버전
 
   - 핫 리로딩
   - proxy 서버
